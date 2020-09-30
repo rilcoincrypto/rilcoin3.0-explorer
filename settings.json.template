@@ -5,15 +5,15 @@
 */
 {
   // name your instance!
-  "title": "IQUIDUS",
+  "title": "RILCOIN",
 
   "address": "127.0.0.1:3001",
 
   // coin name
-  "coin": "Darkcoin",
+  "coin": "rilcoin",
 
   // coin symbol
-  "symbol": "DRK",
+  "symbol": "RIL",
 
   // logo
   "logo": "/images/logo.png",
@@ -54,7 +54,7 @@
   "wallet": {
     "host": "localhost",
     "port": 9332,
-    "username": "darkcoinrpc",
+    "username": "rilcoinrpc",
     "password": "123gfjk3R3pCCVjHtbRde2s5kzdf233sa"
   },
 
